@@ -220,7 +220,7 @@ while corriendo:
                     dificultad = 2
                     bandera_boton_nivel = False
                 if boton_dificil.collidepoint(coordenadas_click) == True:
-                    dificultad = 3
+                    dificultad = 4
                     bandera_boton_nivel = False
                 if boton_volver_dificultad.collidepoint(coordenadas_click)==True:
                     bandera_boton_nivel = False
